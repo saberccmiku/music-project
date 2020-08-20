@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">music-website</h1>
 
 <br/>
@@ -141,3 +142,7 @@ npm run dev // 启动后台管理项目
 
 Copyright (c) 2018 Yin-Hongwei 
 
+=======
+# music-project
+springboot+vue 音乐网站
+>>>>>>> 4139fca96f0d0f93ed1ad24bc6200443583b2f7d
